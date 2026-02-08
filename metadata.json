@@ -1,0 +1,7 @@
+{
+  "name": "Kerala Student Academic Indices (KSAI)",
+  "description": "A competency-based academic measurement framework that transforms traditional school data into globally benchmarked learning insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
